@@ -1,6 +1,4 @@
 #!/bin/bash
-echo "how r u" 
-echo "I am good"
 echo "Printing text with newline"
 echo -n "Printing text without newline"
 echo -e "\nRemoving \t backslash \t characters\n"
